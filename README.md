@@ -38,7 +38,7 @@ Overall, this project highlights the importance of careful data preparation and 
 
 ---
 
-## Authors
+## Author
 
 - [Mohmmad Sohel](https://www.linkedin.com/in/mohmmad-sohel-680793252/)
 
