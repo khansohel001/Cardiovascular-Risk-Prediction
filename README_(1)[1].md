@@ -1,31 +1,6 @@
-### Metadata
 
-| File Name    | File Type |       Description |  Link   |
-| --------- | ------- | -------------| ----------|
-| Cardiovascular_Risk_Prediction_Classification.ipynb     |    Colab Notebook     |  	Contains code for ML model implementation of the project    |    [View](https://githubtocolab.com/yahya-ansariii/CardiovascularRisk/blob/master/Cardiovascular_Risk_Prediction_Classification.ipynb)    |
-| README.md    |    Markdown     |  The README file for the project    |    [View](https://github.com/yahya-ansariii/CardiovascularRisk/blob/master/README.md)    |
-| banner.png     |    Image     |  	An image used in the readme of the project    |    [View](https://github.com/yahya-ansariii/CardiovascularRisk/blob/master/banner.png)    |
-| cardio.gif   |    GIF Animation  |  	A GIF animation to display usage of deployed website   |   [View](https://github.com/yahya-ansariii/CardiovascularRisk/blob/master/cardio.gif)   |
-| data_cardiovascular_risk.csv     |    CSV     |  A CSV file containing data used in the project    |    [View](https://github.com/yahya-ansariii/CardiovascularRisk/blob/master/data_cardiovascular_risk.csv)    |
 
-# Cardiovascular Risk Prediction - Classification
 
-**AlmaBetter Verified Project** - [**Credentials**](https://certificates.almabetter.com/en/verify/28459737371995)
-
-![banner](banner.png)
-
-<font size=1>Image Courtesy: https://www.istockphoto.com/portfolio/lemono?mediatype=illustration</font>
-
-Check the actual **deployment of the model** on a live server below.
-- [**Deployment**](http://cardio.pythonanywhere.com/)
-
----
-
-## Deployment Demo
-
-![demo](cardio.gif)
-
----
 
 ## Problem Statement
 
@@ -65,5 +40,5 @@ Overall, this project highlights the importance of careful data preparation and 
 
 ## Authors
 
-- [Mohammed Yahya Ansari](https://www.linkedin.com/in/yahya-ansari/)
-- [Prafull Korde](https://www.linkedin.com/in/prafull-korde-400560126/)
+- [Mohmmad Sohel](https://www.linkedin.com/in/mohmmad-sohel-680793252/)
+
